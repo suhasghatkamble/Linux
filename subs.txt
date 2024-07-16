@@ -1,0 +1,8 @@
+chat
+help
+account
+ok
+profile
+email
+gmail
+location
